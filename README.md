@@ -4,7 +4,7 @@ Hi 👋, I'm Harkishore Singh
 
 ### 👨‍💻 About Me
 
-🔹 I'm **Harkishore Singh**, a passionate **DevOps Engineer** with over **14 years of experience in IT**, including **4 years specializing in DevOps and Cloud Automation**.  
+🔹 I'm **Harkishore Singh**, a passionate **DevOps Engineer** with over **14 years of experience in IT**, including **6 years specializing in DevOps and Cloud Automation**.  
 🔹 I build scalable, secure, and automated cloud infrastructure using modern DevOps tools and practices.  
 🔹 I love automating everything from deployments to monitoring — making infrastructure more **reliable, repeatable, and fast**.
 
